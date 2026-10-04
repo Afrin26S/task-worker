@@ -1,0 +1,11 @@
+From: billing@northwind-traders.example
+To: ap@acme-corp.example
+Date: 28 Sep 2026
+Subject: Friendly reminder - invoice INV-2057
+
+Hi,
+
+Just a friendly reminder that invoice INV-2057 (USD 1,284.50) is due on 12 Oct 2026.
+If payment has already been scheduled, please ignore this note.
+
+Northwind Traders Billing

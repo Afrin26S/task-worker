@@ -1,0 +1,5 @@
+# The agent core has ZERO required third-party dependencies (stdlib only: urllib, html.parser, http.server, JSON file memory).
+# Recommended: real Chromium browser backend.  After installing run:  playwright install chromium
+playwright>=1.40
+# Optional: lets the agent read PDF invoices.
+pypdf>=4.0

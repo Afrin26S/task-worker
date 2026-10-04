@@ -1,0 +1,22 @@
+From: billing@northwind-traders.example
+To: ap@acme-corp.example
+Date: 14 Aug 2026
+Subject: Invoice INV-2041 from Northwind Traders
+
+Hello Acme AP team,
+
+Please find our invoice below.
+
+Invoice number: INV-2041
+Invoice date:   12 Aug 2026
+Payment terms:  Net 30
+
+Description                      Qty   Unit     Amount
+Industrial fasteners (box)        40   20.00    800.00
+Freight                            1   30.00     30.00
+GST (10%)                                       150.00
+-----------------------------------------------------
+TOTAL DUE (USD)                                 980.00
+
+Thank you,
+Northwind Traders Billing

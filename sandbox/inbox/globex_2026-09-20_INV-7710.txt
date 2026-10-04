@@ -1,0 +1,14 @@
+From: accounts@globex.example
+To: ap@acme-corp.example
+Date: 20 Sep 2026
+Subject: Globex Corp invoice INV-7710
+
+Invoice number: INV-7710
+Invoice date:   05 Sep 2026
+Due date:       05 Oct 2026
+
+Consulting services - September retainer
+TOTAL DUE (USD): 450.00
+
+Regards,
+Globex Accounts

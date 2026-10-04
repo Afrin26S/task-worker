@@ -1,0 +1,4 @@
+Northwind Traders - 2026 price list (not an invoice)
+Industrial fasteners (box of 100): USD 21.00
+Pallet wrap (roll): USD 20.00
+Freight (standard): USD 19.50 - 30.00

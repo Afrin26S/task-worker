@@ -1,0 +1,24 @@
+From: billing@northwind-traders.example
+To: ap@acme-corp.example
+Date: 14 Sep 2026
+Subject: Invoice INV-2057 from Northwind Traders
+
+Hello Acme AP team,
+
+Please find our latest invoice below.
+
+Invoice number: INV-2057
+Invoice date:   12 Sep 2026
+Payment terms:  Net 30
+
+Description                      Qty   Unit     Amount
+Industrial fasteners (box)        50   21.00   1,050.00
+Pallet wrap                        5   20.00     100.00
+Subtotal                                       1,150.00
+GST (10%)                                        115.00
+Freight                                           19.50
+-----------------------------------------------------
+TOTAL DUE (USD)                                1,284.50
+
+Thank you,
+Northwind Traders Billing

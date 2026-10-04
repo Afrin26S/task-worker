@@ -1,0 +1,18 @@
+From: finance@initech.example
+To: ap@acme-corp.example
+Date: 25 Sep 2026
+Subject: Invoice INV-0093 - Initech Ltd
+
+Dear Acme,
+
+Invoice number: INV-0093
+Invoice date:   25 Sep 2026
+Due date:       20 Oct 2026
+
+Annual maintenance contract renewal ............ INR 56,000.00
+(All amounts are in Indian Rupees. Taxes included.)
+
+TOTAL PAYABLE: INR 56,000.00
+
+Regards,
+Initech Finance
