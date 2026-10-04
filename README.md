@@ -187,7 +187,7 @@ AI tools disclosure: I built this with the help of AI coding assistants (Claude,
 * The demo's current date is early October 2026, so "due before 10 October" in the eval is evaluated against the seeded data.
 
 ## Demo run notes
-- Live demo video: <paste YouTube link here>
+- Live demo video: (https://youtu.be/l5zTTsOYgu8)
 - Models used in the demo: Groq OpenAI-compatible API (openai/gpt-oss-120b, fallback qwen/qwen3.8-27b). Earlier runs used Google Gemini Flash models until the free-tier daily quota ran out.
 - In the recorded run the agent found the latest Northwind invoice (INV-2057), entered it into the mock ERP, recovered from the injected session expiry and the 503 error, and saved the bill (BILL-0006).
 - Known issue in this recording: the run then aborted at the final independent-verification step, because the fallback model exceeded Groq's free-tier tokens-per-minute limit (HTTP 413). The verifier logic itself is covered by the tests in 	ests/.
