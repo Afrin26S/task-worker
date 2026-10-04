@@ -157,7 +157,7 @@ These prove the *machinery*. How well a given **model** drives it is measured by
 * **Optional:** `pypdf` to read PDF invoices.
 * **No agent framework** (LangChain etc.) on purpose: the loop is ~350 lines and every decision in it is explainable.
 * The ERP, inbox and company are **entirely simulated** — no real credentials, systems or data.
-* Built with help from an AI assistant (Claude); I reviewed and can explain and modify every module.
+AI tools disclosure: I built this with the help of AI coding assistants (Claude, plus others for debugging). I wrote and reviewed the design, and I can explain, debug and modify every module.
 
 ## 8. Known limitations
 
